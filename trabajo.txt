@@ -5,5 +5,6 @@ Empezando nuestro trabajo colaborativo en git
 - ls : sirve para ver los archivos que hay en un local
 - cd: sirve para ir a una carpeta
 - git pull: sirve para subir los archivos a la nube
-
+- mejor trabajemos no trabajemos en la rama main
+mi nuev rama es devOldseth
 

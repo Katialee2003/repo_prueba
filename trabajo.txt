@@ -4,6 +4,6 @@ Empezando nuestro trabajo colaborativo en git
 - git status: ver el estado del trabajo
 - ls : sirve para ver los archivos que hay en un local
 - cd: sirve para ir a una carpeta
-- git pull: sirve para subir los archivos a la nube
+- git push: sirve para subir los archivos a la nube
 
 

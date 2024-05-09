@@ -1,1 +1,4 @@
 Empezando nuestro trabajo colaborativo en git
+- git bash: sirve para crear ramas
+- git log: sirve para visualizar los commits
+- git status: ver el estado del trabajo

@@ -7,5 +7,7 @@ Empezando nuestro trabajo colaborativo en git
 - git push: sirve para subir los archivos a la nube
 - mejor trabajemos no trabajemos en la rama main
 mi nuev rama es devOldseth
+haciendo cambios desde devOlseth
+quiero subir estas líneas
 
 
